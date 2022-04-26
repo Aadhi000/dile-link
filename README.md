@@ -14,7 +14,7 @@ Press the below button to deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Dile-Link">
+<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/dile-link">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
