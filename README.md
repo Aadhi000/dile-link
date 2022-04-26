@@ -14,6 +14,10 @@ Press the below button to deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
+<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Dile-Link">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 ### Variables
 
 `API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
